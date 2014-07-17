@@ -1,0 +1,7 @@
+C:\Users\SI20122\Desktop\Turma 3\Parte 02\Exercicio03\Exercicio03\bin\Debug\Exercicio03.exe
+C:\Users\SI20122\Desktop\Turma 3\Parte 02\Exercicio03\Exercicio03\bin\Debug\Exercicio03.pdb
+C:\Users\SI20122\Desktop\Turma 3\Parte 02\Exercicio03\Exercicio03\obj\x86\Debug\Exercicio03.Form1.resources
+C:\Users\SI20122\Desktop\Turma 3\Parte 02\Exercicio03\Exercicio03\obj\x86\Debug\Exercicio03.Properties.Resources.resources
+C:\Users\SI20122\Desktop\Turma 3\Parte 02\Exercicio03\Exercicio03\obj\x86\Debug\Exercicio03.csproj.GenerateResource.Cache
+C:\Users\SI20122\Desktop\Turma 3\Parte 02\Exercicio03\Exercicio03\obj\x86\Debug\Exercicio03.exe
+C:\Users\SI20122\Desktop\Turma 3\Parte 02\Exercicio03\Exercicio03\obj\x86\Debug\Exercicio03.pdb

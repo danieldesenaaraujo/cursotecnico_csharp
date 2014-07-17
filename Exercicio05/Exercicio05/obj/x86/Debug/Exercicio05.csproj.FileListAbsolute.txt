@@ -1,0 +1,5 @@
+G:\Turma 3\Parte 03\Exercicio05\Exercicio05\bin\Debug\Exercicio05.exe
+G:\Turma 3\Parte 03\Exercicio05\Exercicio05\bin\Debug\Exercicio05.pdb
+G:\Turma 3\Parte 03\Exercicio05\Exercicio05\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\Turma 3\Parte 03\Exercicio05\Exercicio05\obj\x86\Debug\Exercicio05.exe
+G:\Turma 3\Parte 03\Exercicio05\Exercicio05\obj\x86\Debug\Exercicio05.pdb

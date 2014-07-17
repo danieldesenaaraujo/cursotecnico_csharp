@@ -1,0 +1,5 @@
+C:\Users\SI20122\Desktop\Turma 3\Parte 01\Exercicio01\Exercicio01\bin\Debug\Exercicio01.exe
+C:\Users\SI20122\Desktop\Turma 3\Parte 01\Exercicio01\Exercicio01\bin\Debug\Exercicio01.pdb
+C:\Users\SI20122\Desktop\Turma 3\Parte 01\Exercicio01\Exercicio01\obj\x86\Debug\Exercicio01.exe
+C:\Users\SI20122\Desktop\Turma 3\Parte 01\Exercicio01\Exercicio01\obj\x86\Debug\Exercicio01.pdb
+C:\Users\SI20122\Desktop\Turma 3\Parte 01\Exercicio01\Exercicio01\obj\x86\Debug\Exercicio01.csprojResolveAssemblyReference.cache
