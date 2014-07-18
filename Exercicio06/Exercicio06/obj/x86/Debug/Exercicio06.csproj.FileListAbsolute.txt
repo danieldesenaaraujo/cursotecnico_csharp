@@ -1,0 +1,5 @@
+C:\Users\Dev01\Desktop\Exercicio06\Exercicio06\bin\Debug\Exercicio06.exe
+C:\Users\Dev01\Desktop\Exercicio06\Exercicio06\bin\Debug\Exercicio06.pdb
+C:\Users\Dev01\Desktop\Exercicio06\Exercicio06\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Dev01\Desktop\Exercicio06\Exercicio06\obj\x86\Debug\Exercicio06.exe
+C:\Users\Dev01\Desktop\Exercicio06\Exercicio06\obj\x86\Debug\Exercicio06.pdb
